@@ -34,6 +34,4 @@ In deze opdracht werken we met XML-bestanden die een syntactische analyse repres
 Maak een style-sheet dat van zo'n XML bestand een HTML bestand produceert. Het HTML bestand bevat de gehele zin, en daarnaast ook voor elk woord de waarde van het attribuut woord, het attribuut lemma, en het attribuut postag.
 Bedenk zelf hoe je deze output in HTML zo leesbaar mogelijk op het scherm kunt krijgen (bijvoorbeeld door gebruik te maken van een tabel). 
 
-Lever het stylesheet in via Nestor. Gebruik de volgende bestandsnaam:
 
-    studentnummer_woorden.xsl 
