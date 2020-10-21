@@ -4,11 +4,11 @@ XML to HTML using XSLT
 
 Opdracht 6: XML + XSLT
 
-In deze opdracht ga je zelf XSLT stylesheets maken. Let op, deze week krijg je een cijfer!
-De opdracht bevat twee deelopdrachten. Bij het foutloos maken van de opdracht kan 8 punten worden verdiend. 
-Daarnaast kunnen nog twee punten worden verdiend met oplossingen die beter of uitgebreider zijn dan de andere ingeleverde oplossingen. 
+In deze opdracht ga je zelf XSLT stylesheets maken. 
+De opdracht bevat twee deelopdrachten. 
+ 
 Hierbij wordt gekeken naar de leesbaarheid van het resultaat. Kies dus goede fonts en kleuren en andere trucs om de leesbaarheid van het resultaat te verhogen!
-De deadline is op zondag 13 maart om 11.59 uur.
+
 
 Deel 1
 
