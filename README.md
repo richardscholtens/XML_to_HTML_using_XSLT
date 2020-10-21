@@ -20,10 +20,6 @@ Maak een XSLT-bestand dat dit XML-bestand omzet naar een HTML-bestand. Zorg dat 
 3.    minstens 1 attribuutwaarde uit het XML-bestand
 4.    minstens 1 teller gebaseerd op het XML-bestand
 
-Lever de twee (.html en .xsl) bestanden in via Nestor. Gebruik de volgende bestandsnamen:
-
-    studentnummer_troonrede.html
-    studentnummer_troonrede.xsl 
 
 Deel 2
 
